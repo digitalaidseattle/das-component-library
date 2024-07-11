@@ -1,5 +1,5 @@
 {
-  "name": "das-component-library",
+  "name": "@digitalaidseattle/das-component-library",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -28,5 +28,9 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "tslib": "^2.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalaidseattle/das-component-library.git"
   }
 }
